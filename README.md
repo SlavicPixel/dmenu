@@ -6,5 +6,5 @@ My build of dmenu.
 - [dmenu-dracula](https://tools.suckless.org/dmenu/patches/dracula/)
 - [dmenu-grid](https://tools.suckless.org/dmenu/patches/grid/)
 - [dmenu-highlight](https://tools.suckless.org/dmenu/patches/highlight/)
-- [dmenu-lineheight](https://tools.suckless.org/dmenu/patches/line-height/)
+- ~~[dmenu-lineheight](https://tools.suckless.org/dmenu/patches/line-height/)~~
 - [dmenu-numbers](https://tools.suckless.org/dmenu/patches/numbers/)
